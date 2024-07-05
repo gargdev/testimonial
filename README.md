@@ -1,4 +1,4 @@
-```markdown
+
 # Testimonial Web Application
 
 This is a MERN stack web application that allows users to submit ratings for stores registered on the platform. The application supports different user roles: System Admin, Normal User, and Store Owner. Each role has specific functionalities as described below.
@@ -171,6 +171,6 @@ This project is licensed under the MIT License.
 - [MongoDB](https://www.mongodb.com/)
 - [Redux](https://redux.js.org/)
 - [React Router](https://reactrouter.com/)
-```
+
 
 This README provides a comprehensive overview of the project, its setup, and its usage. It also includes instructions for contributing and acknowledgements for the technologies used.
